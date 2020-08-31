@@ -1,2 +1,2 @@
 # Welcome!
-Hello!I am a random student.
+Hello! I am a random student.
